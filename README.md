@@ -1,2 +1,4 @@
 # webnotification
-HTML5 Web notifications plugin for Chrome, Firefox, Safari with callback support
+jQuery plugin for HTML5 Web notifications plugin Chrome, Firefox, Safari with callback support
+
+
