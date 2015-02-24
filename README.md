@@ -7,14 +7,20 @@ The Web Notifications API allows a web page to send notifications that are displ
 -------
 <h4>Check the Browser permissions for sending notifications.</h4><br/><br/>
 <b>Basic Usage:</b> WebNotification.init() <br/><br/>
-<b>With a callback:</b> <b>WebNotification.init({
+<b>With a callback:</b> WebNotification.init({
                     callback : function(permission) {
                         alert(permission);
                     }
-                  });</b>
+                  });
                   
 Permissions can be <b>default, granted, denied </b>
 
 
 <h4>Sending notifications.</h4><br/><br/>
+jQuery(document).WebNotification({
+                    title: 'Title goes here',
+                    body: 'Body goes here'
+});
+
+See full example here https://jsfiddle.net/gowtham1984/ahfnzec2/
 
