@@ -1,4 +1,4 @@
-# webnotification
+# WebNotification
 jQuery plugin for HTML5 Web notifications plugin Chrome, Firefox, Safari with callback support
 
 The Web Notifications API allows a web page to send notifications that are displayed outside the page at the system level. This allows web apps to send information to a user even if the application is idle. Useful to send notifications when the browser tab/window is not in focus and the application wants to notify the user. 
