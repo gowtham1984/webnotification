@@ -5,6 +5,7 @@
  * Copyright (c) 2015 Gowtham Rupavatharam
  *
  */
+ 
 
 (function($) {
 	var DEFAULT_OPTIONS = {
