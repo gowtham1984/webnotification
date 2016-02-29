@@ -1,5 +1,5 @@
 /*
- * jQuery Plugin: For Sending WebNotifications
+ * jQuery Plugin: For Sending WebNotifications. Modified
  * Version 1.0
  *
  * Copyright (c) 2015 Gowtham Rupavatharam
